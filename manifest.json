@@ -1,0 +1,22 @@
+
+{
+  "name": "تاريخنا",
+  "short_name": "تاريخنا",
+  "description": "موسوعة تاريخنا لاستعراض التاريخ الإسلامي عبر خط زمني تفاعلي، يعمل بشكل كامل دون الحاجة لاتصال بالإنترنت.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Imam_Ali_Mosque_in_Najaf%2C_Iraq.jpg/192x192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Imam_Ali_Mosque_in_Najaf%2C_Iraq.jpg/512x512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
